@@ -16,8 +16,6 @@ int main()
 
     state.createLTS();
 
-	int d;
-	std::cin >> d;
 }
 
 
